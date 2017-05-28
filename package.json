@@ -1,0 +1,11 @@
+{
+  "name": "angularshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/http-server -p 4000"
+  },
+  "author": "",
+  "license": "ISC"
+}
