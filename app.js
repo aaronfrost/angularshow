@@ -14,7 +14,7 @@ var peeps = [
 ];
 var peepsContent = peeps.map(p=>{
   return `
-        <div class="pure-u-1-4 pure-u-sm-1-6 pure-u-md-1-6 pure-u-lg-1-12 pure-u-xl-1-12">
+        <div class="pure-u-1-4 pure-u-sm-1-6 pure-u-md-1-6 pure-u-lg-1-8 pure-u-xl-1-12">
           <h5 style="display:block;height:12px;">${p.name}</h5>
           <img class="pure-img" src="${p.pic}"/>
         </div>
