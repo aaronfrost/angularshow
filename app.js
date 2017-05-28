@@ -8,8 +8,8 @@ var peeps = [
   {name: 'Jules Kremer', pic: 'pics/jules.jpg'},
   {name: 'Jeff Cross', pic: 'pics/jeffc.jpg'},
   {name: 'Mike Brocchi', pic: 'pics/mikeb.jpg'},
+  {name: 'Uri Shaked', pic: 'pics/uri.png'},
   {name: 'Shai Reznik', pic: 'pics/shai.jpg'},
-  {name: 'Deborah Kurata', pic: 'pics/deb.png'},
   {name: 'Aaron\'s Mom', pic: 'pics/mom.png'},
 ];
 var peepsContent = peeps.map(p=>{
